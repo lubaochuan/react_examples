@@ -10,5 +10,5 @@ source code for the tutorial at https://facebook.github.io/react/docs/thinking-i
 
 `http-server`
 
-## test
+## run a web app
 Go to `http://localhost:8080/thinking.html`
