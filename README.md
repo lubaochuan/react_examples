@@ -9,3 +9,6 @@ source code for the tutorial at https://facebook.github.io/react/docs/thinking-i
 `cd public`
 
 `http-server`
+
+## test
+Go to `http://localhost:8080/thinking.html`
