@@ -21,7 +21,7 @@ source doe for tutorial at https://facebook.github.io/react/docs/tutorial.html
 
 
 ## install redis and run redis server
- `redis-server`
+ `npm install redis`
 
  `redis-server`
 
