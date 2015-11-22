@@ -24,4 +24,6 @@ source doe for tutorial at https://facebook.github.io/react/docs/tutorial.html
  `npm install redis`
 
  `redis-server`
+## test
+ Go to `http://localhost:8000/`
 
